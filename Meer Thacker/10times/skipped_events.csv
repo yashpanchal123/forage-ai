@@ -1,0 +1,45 @@
+reason,row,city,state,url,httpStatus,eventStatus,details
+not_in_scope,4,Atlanta,GA,https://10times.com/e1k1-p2dr-4s1z,200,,location_name='California Market Center'; location_address='110 E 9th St A727 Los Angeles CA 90079'
+not_in_scope,5,Atlanta,GA,https://10times.com/e12h-kgh6-sff0-5-home-textile-sourcing-los-angeles,200,,location_name='California Market Center'; location_address='110 E 9th St A727 Los Angeles CA 90079'
+not_in_scope,6,Atlanta,GA,https://10times.com/texworld-usa,200,,location_name='Jacob K. Javits Convention Center'; location_address='655 W 34th St New York NY 10001'
+not_in_scope,7,Atlanta,GA,https://10times.com/home-textiles-market-ney-york,200,,location_name='Jacob K. Javits Convention Center'; location_address='655 W 34th St New York NY 10001'
+not_in_scope,10,Atlanta,GA,https://10times.com/louisiana-energy-conference,200,,"location_name='Four Seasons Hotel New Orleans'; location_address='2 Canal St, New Orleans, LA 70130, USA'"
+not_in_scope,11,Atlanta,GA,https://10times.com/newyork-shoe-expo,200,,"location_name='Park Lane Hotel New York'; location_address='36 Central Park S South, New York, NY 10019, USA'"
+indian_zip_code,15,Atlanta,GA,https://10times.com/bakery-china,200,,location_name='National Convention & Exhibition Center'; location_address='Zhuguang Rd Qingpu Qu Shanghai Shi China 201705'
+not_in_scope,36,Atlanta,GA,https://10times.com/fire-safety-daegu,200,,"location_name='EXCO'; location_address='South Korea, Daegu, Buk-gu, Exco-ro 10'"
+indian_zip_code,37,Atlanta,GA,https://10times.com/aluminium-china,200,,location_name='Shanghai New International Expo Centre(SNIEC)'; location_address='2345 Longyang Rd ShiJi GongYuan Pudong Xinqu Shanghai Shi 201204'
+indian_zip_code,38,Atlanta,GA,https://10times.com/copperchina,200,,location_name='Shanghai New International Expo Centre(SNIEC)'; location_address='2345 Longyang Rd ShiJi GongYuan Pudong Xinqu Shanghai Shi 201204'
+indian_zip_code,39,Atlanta,GA,https://10times.com/cbd,200,,location_name='China Import and Export Fair(Canton Fair Complex)'; location_address='382 Yuejiang Middle Rd Haizhu Qu Guangzhou Shi Guangdong Sheng 510310'
+not_in_scope,40,Atlanta,GA,https://10times.com/paace-automechanika-mexico,200,,"location_name='Centro Citibanamex'; location_address='Av. del Conscripto 311, Lomas de Sotelo, Hipódromo de las Américas, Miguel Hidalgo, 11610 Ciudad de México, CDMX, Mexico'"
+not_in_scope,41,Atlanta,GA,https://10times.com/e15x-fpr0-f4s3,200,,"location_name=""Xi'an International Convention and Exhibition Center""; location_address=""5XW2+34 Yanta District, Xi'An, Shaanxi, China"""
+not_in_scope,42,Atlanta,GA,https://10times.com/texworld-france,200,,location_name='Paris Le Bourget Exhibition Centre'; location_address='Carrefour Charles Lindbergh 93350 Le Bourget'
+indian_zip_code,43,Atlanta,GA,https://10times.com/fishex,200,,location_name='China Import and Export Fair(Canton Fair Complex)'; location_address='382 Yuejiang Middle Rd Haizhu Qu Guangzhou Shi Guangdong Sheng 510310'
+not_in_scope,45,Atlanta,GA,https://10times.com/e1h2-k2d0-hh1s-h-beyond-blueprint,200,,"location_name='Centre Of Excellence'; location_address='17A Macoya Rd, Tunapuna, Trinidad and Tobago'"
+indian_zip_code,47,Atlanta,GA,https://10times.com/sdpe,200,,location_name='China Import and Export Fair(Canton Fair Complex)'; location_address='382 Yuejiang Middle Rd Haizhu Qu Guangzhou Shi Guangdong Sheng 510310'
+indian_zip_code,91,Atlanta,GA,https://10times.com/r-t-asia,200,,location_name='National Convention & Exhibition Center'; location_address='Zhuguang Rd Qingpu Qu Shanghai Shi China 201705'
+indian_zip_code,92,Atlanta,GA,https://10times.com/e1hk-1gh4-hf18-h-india-international-cargo-show,200,,location_name='Bharat Mandapam'; location_address='Appu Ghar Pragati Maidan New Delhi Delhi 110001'
+indian_zip_code,93,Atlanta,GA,https://10times.com/e1d5-d3p3-7xsf-g,200,,location_name='National Convention & Exhibition Center'; location_address='Zhuguang Rd Qingpu Qu Shanghai Shi China 201705'
+indian_zip_code,94,Atlanta,GA,https://10times.com/e1k0-f3h1-8fdp,200,,"location_name='Golden Blossom Imperial Resorts'; location_address='NH-28, Faizabad Rd, Lucknow, Anora Kala, Uttar Pradesh 226028, India'"
+not_in_scope,95,Atlanta,GA,https://10times.com/my-beauty-expo,200,,location_name='Johannesburg Expo Centre'; location_address='Nasrec rd corner Rand Show Rd Nasrec Johannesburg 2091'
+indian_zip_code,97,Atlanta,GA,https://10times.com/e1rg-5xp3-f2s1,200,,location_name='Hitex Exhibition Center'; location_address='1st Floor Trade Fair Office Building Hitech City Road Izzat Nagar Izzathnagar Kothaguda Hyderabad Telangana 500084'
+indian_zip_code,98,Atlanta,GA,https://10times.com/e1xd-x553-x0dx,200,,location_name='Hitex Exhibition Center'; location_address='1st Floor Trade Fair Office Building Hitech City Road Izzat Nagar Izzathnagar Kothaguda Hyderabad Telangana 500084'
+indian_zip_code,99,Atlanta,GA,https://10times.com/e1hp-3z7s-zh1f-2,200,,location_name='National Convention & Exhibition Center'; location_address='Zhuguang Rd Qingpu Qu Shanghai Shi China 201705'
+not_in_scope,118,Atlanta,GA,https://10times.com/vietnam-fisheries-exhibition,200,,location_name='Saigon Exhibition and Convention Center'; location_address='799 Nguyen Van Linh Tan Phu District 7 Ho Chi Minh City'
+not_in_scope,119,Atlanta,GA,https://10times.com/e1h5-r4g5-hf7r-d-viv-select-china,200,,location_name='Shanghai World Expo Exhibition and Convention Center'; location_address='1099 Guozhan Rd Pudong Xinqu Shanghai Shi'
+not_in_scope,120,Atlanta,GA,https://10times.com/e12h-rfsg-9zf0-2-foodist-food-beverage-fair,200,,location_name='Tüyap Fair Convention and Congress Center'; location_address='Cumhuriyet Mah Eski Cumhuriyet Cumhuriyet Hadımköy Yolu Cd No:9 D:1 34500 Büyükçekmece/İstanbul Türkiye'
+not_in_scope,121,Atlanta,GA,https://10times.com/e1k4-4p11-pkhk,200,,location_name='Saigon Exhibition and Convention Center'; location_address='799 Nguyen Van Linh Tan Phu District 7 Ho Chi Minh City'
+indian_zip_code,122,Atlanta,GA,https://10times.com/ime-bangalore,200,,location_name='Bangalore International Exhibition Centre'; location_address='10th Mile Tumkur Road Madavara Post Dasanapura Hobli NH48 Bengaluru Karnataka 562123'
+indian_zip_code,127,Atlanta,GA,https://10times.com/plastic-industry-moscow,200,,"location_name='Timiryazev Tsentr'; location_address='Verkhnyaya Alleya, 6c1, Moskva, Russia, 127238'"
+not_in_scope,136,Atlanta,GA,https://10times.com/dsatlconf-atlanta,200,,location_name='Sandy Springs Artsapalooza'; location_address='6100 Lake Forrest Drive NE'
+not_in_scope,154,Austin,TX,https://10times.com/e1kp-rk13-r32h,200,,location_name='AT&T Conference Center'; location_address='1900 University Avenue'
+indian_zip_code,190,Atlanta,GA,https://10times.com/ep-shanghai,200,,location_name='Shanghai New International Expo Centre(SNIEC)'; location_address='2345 Longyang Rd ShiJi GongYuan Pudong Xinqu Shanghai Shi 201204'
+indian_zip_code,191,Atlanta,GA,https://10times.com/india-med-expo,200,,location_name='Hitex Exhibition Center'; location_address='1st Floor Trade Fair Office Building Hitech City Road Izzat Nagar Izzathnagar Kothaguda Hyderabad Telangana 500084'
+past_event,221,Atlanta,GA,https://10times.com/e1df-sx51-dg43-s,200,Past,Event status marked as past
+missing_event_json,226,Atlanta,GA,https://10times.com/sepa-annual-meeting,200,,"title='SEPA Meeting (Mar 2028), SEPA Annual Meeting, Atlanta USA - Conference'; ldjson_scripts=none"
+past_event,252,Austin,TX,https://10times.com/e1xz-1r7k-0x2d,200,Past,Event status marked as past
+past_event,253,Austin,TX,https://10times.com/e11x-psh8-rf30,200,Past,Event status marked as past
+past_event,254,Austin,TX,https://10times.com/world-innovation-conf-expo,200,Past,Event status marked as past
+past_event,255,Austin,TX,https://10times.com/e1kf-h02h-2x4d,200,Past,Event status marked as past
+past_event,256,Austin,TX,https://10times.com/napeo-annual-conference-marketplace,200,Past,Event status marked as past
+past_event,257,Austin,TX,https://10times.com/e120-sssr-pg40,200,Past,Event status marked as past
+past_event,258,Austin,TX,https://10times.com/armadillo-con,200,Past,Event status marked as past

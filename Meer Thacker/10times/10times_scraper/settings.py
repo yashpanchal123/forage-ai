@@ -1,0 +1,26 @@
+BOT_NAME = "10times_scraper"
+
+SPIDER_MODULES = ["10times_scraper.spiders"]
+NEWSPIDER_MODULE = "10times_scraper.spiders"
+
+ROBOTSTXT_OBEY = False
+COOKIES_ENABLED = False
+CONCURRENT_REQUESTS =15
+DOWNLOAD_DELAY = 2
+RANDOMIZE_DOWNLOAD_DELAY = True
+
+RETRY_ENABLED = True
+RETRY_TIMES = 3
+RETRY_HTTP_CODES = [500, 502, 503, 504, 408, 429]
+
+DOWNLOADER_MIDDLEWARES = {
+    "10times_scraper.middlewares.ZyteProxyMiddleware": 543,
+}
+
+PROXY_USER = "7916eb9714394ae9a160c862c3e3da93"
+PROXY_PASS = ""
+PROXY_HOST = "proxy.zyte.com"
+PROXY_PORT = "8011"
+
+
+LOG_LEVEL = "INFO"
